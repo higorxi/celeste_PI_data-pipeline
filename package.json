@@ -1,0 +1,14 @@
+{
+    "name": "data-pipeline",
+    "version": "1.0.0",
+    "description": "Pipeline de coleta simulada usando Supabase",
+    "type": "module",
+    "scripts": {
+      "start": "node scripts/collectData.js",
+      "test": "node scripts/test.js"
+    },
+    "dependencies": {
+      "@supabase/supabase-js": "^2.10.1"
+    }
+  }
+  
