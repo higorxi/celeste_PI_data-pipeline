@@ -27,7 +27,7 @@ async function simulateEventRegistration() {
     }
   }
 
-  console.log("Coleta e registro de eventos concluídos!");
+  console.log("Coleta e registro de eventos concluídos!!");
 }
 
 simulateEventRegistration();
